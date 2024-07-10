@@ -10,7 +10,7 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAYpI65VsE9Ep_DsMkXdZsd3XiLTuQA4zU",
+  apiKey: //INSERT API KEY,
   authDomain: "podcast-app-000.firebaseapp.com",
   projectId: "podcast-app-000",
   storageBucket: "podcast-app-000.appspot.com",
