@@ -23,3 +23,11 @@ The platform also includes the following features:
 - **Redux Toolkit**: Redux Toolkit is used to manage the application state, including user authentication and podcast data.
 - **Sharing**: Users can share their podcasts with others by providing a link to the podcast details page.
 - **Search**: Users can search for specific podcasts by keyword using the search bar on the home page.
+
+
+## **Tech Stack Used -**
+
+- **React:** For Frontend Web App
+- **Firebase:** For all backend-related services - Auth, Database and Storage.
+- **Redux Toolkit and React-Redux:**  For state management.
+- **React Router Dom:** For routing and router-related functions - Dynamic routing.
